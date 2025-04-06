@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **parag.nema_btech22@gsv.ac.in**
 
-- 📄 Know about my experiences [https://parag-nema.my.canva.site/](https://parag-nema.my.canva.site/)
+- 📄 Know about my experiences [https://parag-nema.my.canva.site/](https://drive.google.com/file/d/1cPrTdrAqBKKC2XM4GJVxwVqIF_Mzfb4q/view))
 
 - ⚡ Fun fact **I Think I am Funny**
 
