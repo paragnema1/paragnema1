@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parag Nema</h1>
 <h3 align="center">A Engineering Undergrad at National Rail and Transportation Institute, India</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 Pursuing my interest of **Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **parag.nema_btech22@gsv.ac.in**
 
